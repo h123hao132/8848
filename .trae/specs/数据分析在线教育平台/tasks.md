@@ -117,7 +117,7 @@
   - `programmatic` TR-9.2: 成绩计算准确
 - **Notes**: 测评题目暂时使用模拟数据
 
-## [/] 任务 10: 平台优化和部署
+## [x] 任务 10: 平台优化和部署
 - **Priority**: P2
 - **Depends On**: 所有任务
 - **Description**:
