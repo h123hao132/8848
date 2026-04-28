@@ -1,0 +1,11 @@
+order_id,product_name,category,price,quantity,order_date,city
+1,iPhone 15,手机,7999,2,2024-01-05,北京
+2,MacBook Pro,电脑,14999,1,2024-01-06,上海
+3,AirPods Pro,配件,1999,3,2024-01-07,广州
+4,iPad Air,平板,4799,1,2024-01-08,深圳
+5,iPhone 15,手机,7999,1,2024-01-09,北京
+6,MacBook Air,电脑,8999,2,2024-01-10,杭州
+7,AirPods,配件,1299,2,2024-01-11,上海
+8,iPhone 15 Pro,手机,9999,1,2024-01-12,广州
+9,iPad Pro,平板,6799,1,2024-01-13,深圳
+10,MacBook Pro,电脑,14999,1,2024-01-14,北京
