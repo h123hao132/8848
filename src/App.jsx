@@ -13,6 +13,8 @@ const Achievements = lazy(() => import('./pages/Achievements'))
 const Certificate = lazy(() => import('./pages/Certificate'))
 const PythonEditorPage = lazy(() => import('./pages/PythonEditorPage'))
 const ScoreAnalysisPage = lazy(() => import('./pages/ScoreAnalysisPage'))
+const EcommerceAnalysisCourse = lazy(() => import('./pages/EcommerceAnalysisCourse'))
+const EcommerceBootcamp = lazy(() => import('./pages/EcommerceBootcamp'))
 
 function App() {
   return (
@@ -30,6 +32,8 @@ function App() {
           <Route path="/certificate/:achievementId" element={<Certificate />} />
           <Route path="/python-editor" element={<PythonEditorPage />} />
           <Route path="/score-analysis" element={<ScoreAnalysisPage />} />
+          <Route path="/ecommerce-analysis" element={<EcommerceAnalysisCourse />} />
+          <Route path="/ecommerce-bootcamp" element={<EcommerceBootcamp />} />
         </Routes>
       </Suspense>
     </BrowserRouter>
